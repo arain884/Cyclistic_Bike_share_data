@@ -1,0 +1,15 @@
+id,member_casual,day_of_week,ride_length
+1,casual,Sunday,432496.5901
+2,member,Sunday,99657.0852
+3,casual,Monday,525028.3414
+4,member,Monday,102967.1204
+5,casual,Tuesday,469497.6722
+6,member,Tuesday,105700.9749
+7,casual,Wednesday,498311.4479
+8,member,Wednesday,99654.75132
+9,casual,Thursday,501041.6122
+10,member,Thursday,103548.3017
+11,casual,Friday,429959.3405
+12,member,Friday,90710.55752
+13,casual,Saturday,436719.1837
+14,member,Saturday,101838.89
